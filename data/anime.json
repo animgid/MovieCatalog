@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Провожающая в последний путь Фрирен",
+    "year": 2023,
+    "genres": ["Фэнтези", "Драма", "Приключения"],
+    "rating": 9.1,
+    "poster": "https://i.ebayimg.com/00/s/MTA4N1g3NzE=/z/b3wAAOSw3fNmPcWe/$_57.JPG?set_id=880000500F"
+  },
+  {
+    "id": 2,
+    "title": "Атака титанов",
+    "year": 2013,
+    "genres": ["Экшен", "Драма", "Фэнтези"],
+    "rating": 9.0,
+    "poster": "https://avatars.mds.yandex.net/i?id=4483a2228319f2dfddcef59c3f62c02607d730f3-5677974-images-thumbs&n=13"
+  },
+  {
+    "id": 3,
+    "title": "Ван-Пис",
+    "year": 1999,
+    "genres": ["Экшен", "Приключения", "Комедия"],
+    "rating": 8.7,
+    "poster": "https://comicvine.gamespot.com/a/uploads/scale_medium/4/47703/3010266-1009248733-59648.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Наруто",
+    "year": 2002,
+    "genres": ["Экшен", "Приключения", "Сёнен"],
+    "rating": 8.3,
+    "poster": "https://yandex-images.clstorage.net/ne5di1170/416a96b2P/VP5kNrYKvuucewJnPfaTsdG0hMFkq2x0DBb_xsv7xlLMGWwE-6m0NkBEp-5RotnHp8Gib696Lz5IslcXqkDEllHrbD7Wd_-LsGsSMkzy74WAcBxB2DOEqfyKdzNPg9Y76DlNGL7AHY4RNfqbFMpJo4-JbvaSN-aniatGpucZ2QfsNmnnYyIeJ4A7ChdopvsJEGSEBRRvsKEkDuMf86_iszzpJHymIP3PLSneHxTOoTcXpQ6aOu_2pwlnGnp7TbnDvJIJEw8yejt8Hxq36HrH8TSw0FF8C5CRMOanp8Mn9iOkHagoQrAxW9k1pp8gKmUzi5kuRtafGqNl0wqew2FFCzCudU-3puI3KJ9OY3wG__VQwLTxxNPkfXw2V_fnf25TkG20DE4IKU85EdoHuD5hIx8Nxs4uK1JTlf-6cm9ZJVvsppF3J16-D8STEvvUWhclvDj4rWhbWNksfi8zy_Ny57hJvPSW0M27Wd36AxjaRe-ngaYyKp_-Q9Xvpo4vubU7TBpN_-ti-lOcs1qfFGK77YwwKNVwUyCZeEY_Ny_bBhO0tbi4njSht62BQuNMBh0ne22-KuKHEkPB32Jyl-HVQwCeSZu_gir7lHtuZxBGG8mMMHwR5A9YCZSG769How6TKP20gJKYBVe1ZTb7rFqZaxORpsbG-26vlTsO8sedLc-U5hFbQ47qG1x_ZnfYCh95DDDUAQz7yKXcojODz0_mZyypBMAmfEGrvR1WFxjGrftjrSby0jee_wlTHvp_4QVTpDpJt1MmnoN4_4K7vN4XGUQEQAXEh8gxpO6vg_sjcp84ZZQUlnxNs42J4ofoFvVHtzHCQhYf7sfty9pWV8EF9wC6lVtbmiK_tEOaN3x-l-lUEIhZVLPg9eR-R0O_8_rfYInwEFL8Jc_VLTbvGKal098djkrS62ZHTUc6GqO5le_gfo1v12qu19yb7qMw9u9BNEhwUWwXyCHwxku7z18E"
+  },
+  {
+    "id": 5,
+    "title": "Клинок, рассекающий демонов",
+    "year": 2019,
+    "genres": ["Экшен", "Фэнтези", "Драма"],
+    "rating": 8.9,
+    "poster": "https://cdnb.artstation.com/p/assets/images/images/062/235/639/large/alexa-patrick-demon-slayer-3-temporada.jpg?1682643991"
+  },
+  {
+    "id": 6,
+    "title": "Стальной алхимик: Братство",
+    "year": 2009,
+    "genres": ["Экшен", "Фэнтези", "Драма"],
+    "rating": 9.1,
+    "poster": "https://yandex-images.clstorage.net/ne5di1170/416a96KDj/AOYtD49-94usO0sXFMqfsYjt2P1I6kQwSAr64qKys1aZbSgk4oDtflEd4-JF_uX26nDDH6NnWz8Z-xcODzCoik3vSD7CY46XrC8aOz3694HIuOiIRL9MVFgXntK7Gy6HfKXQnD4wfdepae6HEIqcy_NpeoPyH1pXGbe2Fse1dVdkroWLD37-U4wzQveYRucZdJhEUUSrdC0sRrc_ew-2w7D55JTmtOn7FUXaD8Ra9a_riZrCzgN-0xmzXoJfmRU7zHaVi4-yoo8QZyIzyOKH7RiIIE24j2SNrJqLx1_b4pfYncSk8lytQyXNzp9crnn7DxlWVjofBlMtV5qGw6U15yAGeY_jBrJrqEve-0Te-7GgHLhB7A8wWTjms8M7q4Y3YEWwSL6MXRMBlVbvaN5l3wOhTkLaO3rLtUOellcx3W_YsjF_EyoChwRzvquY1h-JMOTkeQADbMGQulsT11PKa8zNDOzuxCXXLRlKW0D6bSfbeaq2uvdazxWnulrvvb2T3Aadb1M6HntEky7LOGrDAfzYoCVYIySlUIL32-dbGhPUxXSsuvw108kxPq9MBmlr053Guk6r4i9Be-KSM1GlixQecW9HCtqH_MtOs3Tux2WoOHCNUOsQXVSmV__nW07XQJkMPFY85UuhSTYv0E5lU98xYlpWT5Y3oSdm3lutvWcwYg2DE-62B6y3tj_glp-lVDSwbZjvGE2c6lNPZ1vmx6htnJAeGDlnKaXe29Qa1RNr1SamXjf22xW7Uk4rkT1TJK7904-Gpg8Uy56j0ErHSUScxPW8b_yB-D5bLy9vcsNgEZwEZlSlZx3JSiPA1kXH29Uqvm6jQkvlawry_w3Z4-CGjetrHmKjPOueB3TKG6VMIHjJcNPkDTie298_e7qf8CW0wCbETadZGcJjmDohwx9VQsI2B5YjFdtaZpchleskcgVry5KC78iTDh-UDgORwND0oRgLkJl0FqN3XyNA"
+  },
+  {
+    "id": 7,
+    "title": "Магическая битва",
+    "year": 2020,
+    "genres": ["Экшен", "Фэнтези", "Драма"],
+    "rating": 8.7,
+    "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/10592371/352719fb-90a9-483b-96e8-3d1167ce5d0b/1920x"
+  },
+  {
+    "id": 8,
+    "title": "Ван-Панч Мэн",
+    "year": 2019,
+    "genres": ["Боевик", "Комедия", "Фантастика"],
+    "rating": 8.5,
+    "poster": "https://avatars.dzeninfra.ru/get-zen_doc/1708203/pub_5d8bd54a3f548700ad8be837_5d8bdafb97b5d400b2841558/scale_1200"
+  },
+  {
+    "id": 9,
+    "title": "Подземелье вкусностей",
+    "year": 2024,
+    "genres": ["Фэнтези", "Комедия"],
+    "rating": 8.2,
+    "poster": "https://i.pinimg.com/474x/04/75/c5/0475c53451dfbe49b3f100c7d62c8851.jpg?nii=t"
+  }
+]

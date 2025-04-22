@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Игра престолов",
+    "year": 2011,
+    "genres": ["Фэнтези", "Драма"],
+    "rating": 9.3,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_464963.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Во все тяжкие",
+    "year": 2008,
+    "genres": ["Криминал", "Драма"],
+    "rating": 9.2,
+    "poster": "https://avatars.mds.yandex.net/i?id=497a5ac8619a40fde0d39fb46211354b_l-6392895-images-thumbs&n=13"
+  },
+  {
+    "id": 3,
+    "title": "Чернобыль",
+    "year": 2019,
+    "genres": ["Драма", "История"],
+    "rating": 9.2,
+    "poster": "https://i.pinimg.com/736x/11/59/1a/11591a992325442ffd6ddc1f37d833c4.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Бумажный дом",
+    "year": 2017,
+    "genres": ["Криминал", "Драма"],
+    "rating": 8.7,
+    "poster": "https://images-s.kinorium.com/movie/poster/1623199/1080_51556426.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Очень странные дела",
+    "year": 2016,
+    "genres": ["Фантастика", "Ужасы"],
+    "rating": 8.4,
+    "poster": "https://upload.wikimedia.org/wikipedia/ru/b/b1/Stranger_Things_season_1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Мандалорец",
+    "year": 2019,
+    "genres": ["Фантастика", "Боевик"],
+    "rating": 8.5,
+    "poster": "https://cdn1.ozone.ru/s3/multimedia-1-y/7223054938.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Доктор Хаус",
+    "year": 2004,
+    "genres": ["Драма", "Детектив"],
+    "rating": 8.9,
+    "poster": "https://sun9-55.userapi.com/impf/c627718/v627718259/2b057/l-rWMO5KEEo.jpg?size=580x856&quality=96&sign=4d003ef5ac667055958ba8473955beb2&c_uniq_tag=ApW-Pts9GyCFjsybTAV0KGO7iomyRU3AGUOV5iav374&type=album"
+  },
+  {
+    "id": 8,
+    "title": "Шерлок",
+    "year": 2010,
+    "genres": ["Детектив", "Драма"],
+    "rating": 9.1,
+    "poster": "https://static.kinoafisha.info/k/series_posters/1920x1080/upload/series/posters/5/5/2/255/796438421595441635.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Друзья",
+    "year": 1994,
+    "genres": ["Комедия", "Мелодрама"],
+    "rating": 9.1,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_77044.jpg"
+  }
+]

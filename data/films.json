@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Начало",
+    "year": 2010,
+    "genres": ["Фантастика", "Триллер"],
+    "rating": 8.7,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_447301.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Интерстеллар",
+    "year": 2014,
+    "genres": ["Фантастика", "Драма"],
+    "rating": 8.6,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_258687.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Зелёная книга",
+    "year": 2018,
+    "genres": ["Биография", "Комедия"],
+    "rating": 8.4,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1108577.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Паразиты",
+    "year": 2019,
+    "genres": ["Триллер", "Драма"],
+    "rating": 8.6,
+    "poster": "https://papik.pro/grafic/uploads/posts/2023-03/1680266562_papik-pro-p-paraziti-poster-5.png"
+  },
+  {
+    "id": 5,
+    "title": "Довод",
+    "year": 2020,
+    "genres": ["Боевик", "Фантастика"],
+    "rating": 7.5,
+    "poster": "https://yandex-images.clstorage.net/ne5di1170/416a96b2P/VP5kNrYKvuucewJnPfaTsdG0hMFkq2x0DBb_xsv7xlLMGWwE-6m0NkBUu_ZVo7X2-nzHP7NiLzpMuwpftwWQimSrZBeeaqPq1X5Hf3zavuTYgdz5FJ9k6ciqbx8LWxqnZImURPKs8WdwNaLr_GP9y6sZkipGd37H5WtiVl_VGZdAXj1Hz-5SO9iT7jvUWr-xkLT4rQAT9P1Q7qNDP1PCI_ClKGjGJCW3GVG6CxwiwdePnZIuruPm64UHyo5P1ZlbHIKhE68qAp-4Z4IrsEZDlYAUeHE869ApBLrLJx9j1su0HRjg0rS9Q5UFXpvQtjXL9x2mymrnetel2yb-o9H17wxmGT9T4o6jxDs6vyhKFxXUwOwNBO-0WWAac_9rj5obRE08uErEiTOJIVIjyKLV74uFPt5u9-5DTVPeSushBcO8irUHM7JSqyADqkd0cvsZiFhEUew_WKEsRt931yvKUzyJEDRWcKEXgdmK-yxWtSOrgZ46SjtWzy2v2v5HMUXToHb156PS8hf8i2Z7MC6jOcA8hGlA92ip_D7Hf69rnmssjfQcIoSt64WVgh9AWkF_E2HK5hLziiM1txLmqzFR42SKTb_Dqr6T-O8ym-CGq_H0xIBN4NNoqaj6UyPX-3Kr_BWcZCoEMaOJrY6z5LpZm2d5KrqWv-LfLVs2mtfdBQcICh3DOyYq66AvzpcgZmP1_NRIAeRj6KkA6rvXR1c6jyA5FIjC8DX3Oe06V6BGUeMHlZ4moi-S461vIlYnjZlvGAKlvxO6Gjf4w94_VP5HdRgYLNXsA6CdlO5zq0fDQsO8OSDkVgghO6k5ilesXmF3swVu9vqTRn9J3-Z-V7V999yujZ8THr63JC_Wg-jCi8kAlOx1bPOwiVyy459vBwJTVPlkNN5IedfNPU7XxCI502dtnkaqBy5TBdciit813Xs84nnngwZeczwbWnNkquMRdACg_RRb0NGkuts7R9MU"
+  },
+  {
+    "id": 6,
+    "title": "Джентльмены",
+    "year": 2019,
+    "genres": ["Криминал", "Боевик"],
+    "rating": 8.5,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1143242.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Дюнкерк",
+    "year": 2017,
+    "genres": ["Военный", "История"],
+    "rating": 7.8,
+    "poster": "https://i.pinimg.com/736x/a2/3e/17/a23e17bedfd9ac7fa6dc0c4a49aad3ec.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Бегущий по лезвию 2049",
+    "year": 2017,
+    "genres": ["Фантастика", "Драма"],
+    "rating": 7.7,
+    "poster": "https://avatars.mds.yandex.net/get-mpic/12418417/2a00000192ea66d4804baebbc906a7b29c4d/orig"
+  },
+  {
+    "id": 9,
+    "title": "Джокер",
+    "year": 2019,
+    "genres": ["Триллер", "Драма"],
+    "rating": 8.4,
+    "poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_1048334.jpg"
+  }
+]
