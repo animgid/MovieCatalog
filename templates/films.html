@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Фильмы
+{% endblock %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/film.css')}}">
+{% endblock %}
+
+{% block body %}
+<div class="films-container">
+  <div class="films-grid" id="film-grid">
+    <!-- Карточки будут добавляться динамически через JavaScript -->
+  </div>
+</div>
+<script src="{{ url_for('static', filename='script/film.js') }}"></script>
+{% endblock %}

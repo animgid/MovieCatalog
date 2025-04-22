@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Главная страница
+{% endblock %}
+{% block extra_css %}
+<link rel="stylesheet" href="{{url_for('static', filename='css/index.css')}}">
+<script src="{{ url_for('static', filename='script/index.js') }}"></script>
+{% endblock %}
+{% block body %}
+<div id="home-page" class="container">
+    <div class="category-grid">
+        <div class="category-card">
+            <img src="https://steamuserimages-a.akamaihd.net/ugc/2017097772402085270/679801B7DE1DD5DD61B313DEFCF0A86364D9F22F/?imw=512&amp;imh=287&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
+                 alt="Фильмы">
+            <div class="card-content">
+                <h3>Фильмы</h3>
+                <p>Тысячи фильмов на любой вкус: от классики до новинок проката.</p>
+                <a href="/films">Смотреть все</a>
+            </div>
+        </div>
+
+        <div class="category-card">
+            <img src="https://www.film.ru/sites/default/files/filefield_paths/6_13.jpeg" alt="Сериалы">
+            <div class="card-content">
+                <h3>Сериалы</h3>
+                <p>Лучшие сериалы со всего мира. Погружайтесь в захватывающие истории.</p>
+                <a href="/serials">Смотреть все</a>
+            </div>
+        </div>
+
+        <div class="category-card">
+            <img src="https://i.ytimg.com/vi/E7dO2gxBSRs/maxresdefault.jpg" alt="Аниме">
+            <div class="card-content">
+                <h3>Аниме</h3>
+                <p>Японская анимация для настоящих ценителей. От классики до новых релизов.</p>
+                <a href="/anime">Смотреть все</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="new-releases">
+        <h2>Новинки</h2>
+        <div class="movie-grid">
+            <div class="movie-card">
+                <img src="https://cdn1.ozone.ru/s3/multimedia-7/6088773271.jpg" alt="Фильм 1">
+                <div class="movie-info">
+                    <h4>Интерстеллар</h4>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <span>8.6</span>
+                    </div>
+                </div>
+            </div>
+            <div class="movie-card">
+                <img src="https://avatars.mds.yandex.net/i?id=497a5ac8619a40fde0d39fb46211354b_l-6392895-images-thumbs&n=13" alt="Фильм 1">
+                <div class="movie-info">
+                    <h4>Во все тяжкие</h4>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <span>9.2</span>
+                    </div>
+                </div>
+            </div>
+            <div class="movie-card">
+                <img src="https://i.ebayimg.com/00/s/MTA4N1g3NzE=/z/b3wAAOSw3fNmPcWe/$_57.JPG?set_id=880000500F" alt="Фильм 1">
+                <div class="movie-info">
+                    <h4>Провожающая в последний путь Фрирен</h4>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <span>9.1</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

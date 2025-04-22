@@ -1,0 +1,125 @@
+/* Основные стили контейнера */
+.login-container {
+    max-width: 28rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    padding: 2rem;
+}
+
+
+/* Заголовок */
+.login-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+/* Группы полей ввода */
+.input-group {
+    margin-bottom: 1rem;
+}
+
+.input-label {
+    display: block;
+    color: #374151;
+    font-size: 0.875rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.text-input {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.375rem;
+    outline: none;
+}
+
+.text-input:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Опции входа */
+.login-options {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.remember-me {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox {
+    height: 1rem;
+    width: 1rem;
+    color: #3b82f6;
+    border-color: #d1d5db;
+    border-radius: 0.25rem;
+}
+
+.checkbox:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 1px #3b82f6;
+}
+
+.checkbox-label {
+    margin-left: 0.5rem;
+    font-size: 0.875rem;
+    color: #374151;
+}
+
+.password-link {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #3b82f6;
+}
+
+.password-link:hover {
+    color: #2563eb;
+}
+
+/* Кнопка отправки */
+.submit-button {
+    width: 100%;
+    background-color: #2563eb;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.375rem;
+    transition: all 0.2s;
+}
+
+.submit-button:hover {
+    background-color: #1d4ed8;
+}
+
+.submit-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Ссылка на регистрацию */
+.register-link-container {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.register-text {
+    color: #4b5563;
+}
+
+.register-link {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.register-link:hover {
+    text-decoration: underline;
+}

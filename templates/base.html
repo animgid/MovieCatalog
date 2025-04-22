@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    {% block extra_css %}{% endblock %}
+    <title>{% block title %}{% endblock %}</title>
+     <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #1e3a8a 0%, #7e22ce 100%);
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+        .transition-all {
+            transition: all 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+<!-- Навигационное меню (Header) -->
+<header id="main-header">
+    <div class="header-container">
+        <div class="header-content">
+            <a href="/" class="site-title">MoovieCatalog</a>
+            <div class="desktop-menu">
+                <a href="/" class="menu-link">Главная</a>
+                <a href="/films" class="menu-link">Фильмы</a>
+                <a href="/serials" class="menu-link">Сериалы</a>
+                <a href="/anime" class="menu-link">Аниме</a>
+            </div>
+            <div class="auth-buttons">
+                <a href="/log" class="login-btn">Войти</a>
+                <a href="/register" class="register-btn">Регистрация</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+    </div>
+</header>
+{% block body %}{% endblock %}
+
+<div>
+  <footer class="site-footer">
+    <ul class="footer-nav">
+      <li class="nav-item"><a href="/" class="nav-link">Главная</a></li>
+      <li class="nav-item"><a href="films" class="nav-link">Фильмы</a></li>
+      <li class="nav-item"><a href="serials" class="nav-link">Сериалы</a></li>
+      <li class="nav-item"><a href="anime" class="nav-link">Аниме</a></li>
+    </ul>
+    <p class="copyright">© Create in 2025, for NeftPK</p>
+</footer>
+</div>
+</body>
+</html>

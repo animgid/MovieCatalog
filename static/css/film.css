@@ -1,0 +1,107 @@
+.films-container {
+  padding: 2rem;
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+.films-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .films-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .films-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1280px) {
+  .films-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+.film-card {
+  background: white;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  height: auto;
+}
+
+.film-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.film-poster {
+  width: 100%;
+  height: 16rem;
+  object-fit: cover;
+  position: relative;
+  height: 350px;
+}
+
+.rating-badge {
+  user-select: none;
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: #3b82f6;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.25rem 0.5rem;
+  border-radius: 9999px;
+}
+
+.film-poster-container {
+  position: relative;
+  display: inline-block; /* или block, в зависимости от вашей верстки */
+  width: 100%;
+}
+
+.film-info {
+  padding: 1rem;
+}
+
+.film-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.film-meta {
+  color: #6b7280;
+  font-size: 0.875rem;
+  margin-bottom: 0.75rem;
+}
+
+.film-actions {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+.btn-details {
+  color: #3b82f6;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-details:hover {
+  color: #1d4ed8;
+}
+
+.btn-details i {
+  margin-right: 0.25rem;
+}
